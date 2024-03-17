@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Red</h1>
 <h3 align="center">A passionate Data Scientist.</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+![0a10af70-6cbf-46df-9071-0ff586a3b1d6](https://github.com/RedsAnalysis/RedsAnalysis/assets/146496074/2c805bd3-f133-4821-b8e3-8c343bfe1023)
+
 
 
 - 👨‍💻 All of my projects are available at [https://redsanalysis.github.io/RedTheAnalyst/](https://redsanalysis.github.io/RedTheAnalyst/)
