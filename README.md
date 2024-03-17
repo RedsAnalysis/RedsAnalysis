@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Red</h1>
 <h3 align="center">A passionate Data Scientist.</h3>
 
+<img src="hackergif.gif" alt="Hacker GIF" />
+
 - 👨‍💻 All of my projects are available at [RedTheAnalyst](https://redsanalysis.github.io/RedTheAnalyst/)
 
 - 📝 I make Data Science related videos on [YouTube](https://youtube.com/playlist?list=PLd-3FWd_Duin-z0pgurhUlWzZU_KfmaHM&si=s73w8fKg_Kz79WMm)
