@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Red</h1>
 <h3 align="center">A passionate Data Scientist.</h3>
-<img align="right" alt="Coding" width="400" src="(https://github.com/RedsAnalysis/RedsAnalysis/assets/146496074/2c805bd3-f133-4821-b8e3-8c343bfe1023)">
 
 
 
