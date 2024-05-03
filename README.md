@@ -3,9 +3,9 @@
 
 <img align="right" alt="Coding" width="400" src="hackergif.gif" alt="Hacker GIF" />
 
-- 👨‍💻 All of my projects are available at [RedTheAnalyst](https://redsanalysis.github.io/RedTheAnalyst/)
+- 👨‍💻 All of my projects are available at [RedTheAnalyst](https://redsanalysis.github.io/RedsdataPortfolio/)
 
-- 📝 I make Data Science related videos on [YouTube](https://youtube.com/playlist?list=PLd-3FWd_Duin-z0pgurhUlWzZU_KfmaHM&si=s73w8fKg_Kz79WMm)
+- 📝 I make Data Science related videos on [YouTube](https://www.youtube.com/watch?v=tK_vXxAX8_0&t=1280s)
 
 - 📫 How to reach me **redtheanalyst@gmail.com**
 
