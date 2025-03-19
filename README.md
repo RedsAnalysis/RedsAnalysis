@@ -3,8 +3,6 @@
 
 <img align="right" alt="Coding" width="400" src="hackergif.gif" alt="Hacker GIF" />
 
-- 👨‍💻 All of my projects are available at [RedTheAnalyst](https://redsanalysis.github.io/RedsdataPortfolio/)
-
 - 📝 I make Data Science related videos on [YouTube](https://www.youtube.com/watch?v=tK_vXxAX8_0&t=1280s)
 
 - 📫 How to reach me **redtheanalyst@gmail.com**
